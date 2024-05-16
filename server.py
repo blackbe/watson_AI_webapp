@@ -14,7 +14,7 @@ def sent_analyzer():
         function. The output returned shows the label and its confidence 
         score for the provided text.
     '''
-    # TODO blah blah blah
+    # TODO blah blah
     import requests
 
 def function_name(<input_args>):
